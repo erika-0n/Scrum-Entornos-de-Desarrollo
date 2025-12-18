@@ -1,0 +1,27 @@
+Summary,Key,Description,Link,Estimate
+Registrarme e iniciar sesión (User/Pass),Registrarme e iniciar sesión (User/Pass),Registrarme e iniciar sesión (User/Pass),,8
+Ver un muro social (tipo Facebook/Roblox),Ver un muro social (tipo Facebook/Roblox),Ver un muro social (tipo Facebook/Roblox),,20
+Tener un perfil de usuario con mis datos,Tener un perfil de usuario con mis datos,Tener un perfil de usuario con mis datos,,5
+Activar mi ubicación,Activar mi ubicación,Activar mi ubicación,,8
+" Gestionar mis amigos."," Gestionar mis amigos."," Gestionar mis amigos.",,3
+"Unirme a un ""Club"" o ""Clan""","Unirme a un ""Club"" o ""Clan""","Unirme a un ""Club"" o ""Clan""",,3
+Ver el ranking global de un juego,Ver el ranking global de un juego,Ver el ranking global de un juego,,1
+Jugar en el Simulador de Mesa,Jugar en el Simulador de Mesa,Jugar en el Simulador de Mesa,,40
+Que el código esté ofuscado,Que el código esté ofuscado,Que el código esté ofuscado,,1
+Controlar permisos de rol,Controlar permisos de rol,Controlar permisos de rol,,
+Definir lenguaje de programacion principal,Definir lenguaje de programacion principal,Definir lenguaje de programacion principal,,
+Documentar el codigo fuente,Documentar el codigo fuente,Documentar el codigo fuente,,
+Definir las fases del ciclo de vida del software,Definir las fases del ciclo de vida del software,Definir las fases del ciclo de vida del software,,
+Gestionar publicidad en el muro,Gestionar publicidad en el muro,Gestionar publicidad en el muro,,
+Registrar el resultado de una partida,Registrar el resultado de una partida,Registrar el resultado de una partida,,
+Bloquear usuarios o borrar posts,Bloquear usuarios o borrar posts,Bloquear usuarios o borrar posts,,
+Crear un torneo o liga,Crear un torneo o liga,Crear un torneo o liga,,
+Gestionar pagos de torneos,Gestionar pagos de torneos,Gestionar pagos de torneos,,
+Organizar el backlog por fases de desarrollo,Organizar el backlog por fases de desarrollo,Organizar el backlog por fases de desarrollo,,
+Definir los requisitos funcionales,Definir los requisitos funcionales,Definir los requisitos funcionales,,
+Definir los requisitos no funcionales,Definir los requisitos no funcionales,Definir los requisitos no funcionales,,
+Realizar pruebas unitarias,Realizar pruebas unitarias,Realizar pruebas unitarias,,
+Realizar pruebas de integracion,Realizar pruebas de integracion,Realizar pruebas de integracion,,
+Ejecutar pruebas de validacion,Ejecutar pruebas de validacion,Ejecutar pruebas de validacion,,
+Usar un debugger,Usar un debugger,Usar un debugger,,
+Empaquetar la app para IOS y Android,Empaquetar la app para IOS y Android,Empaquetar la app para IOS y Android,,

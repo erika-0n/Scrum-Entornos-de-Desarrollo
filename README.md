@@ -33,8 +33,3 @@ Table top simulator
 
 <img width="1680" height="840" alt="image" src="https://github.com/user-attachments/assets/62eabfb1-08fb-4c7f-abbf-1a8a015d300e" />
 
-
-
-
-
-Los demas tambien queremos hacer algo :)

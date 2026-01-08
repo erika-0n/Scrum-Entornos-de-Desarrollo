@@ -33,3 +33,6 @@ Table top simulator
 
 <img width="1680" height="840" alt="image" src="https://github.com/user-attachments/assets/62eabfb1-08fb-4c7f-abbf-1a8a015d300e" />
 
+<img width="2245" height="1587" alt="image" src="https://github.com/user-attachments/assets/13e0edc3-7f73-44e8-97aa-b90b76b8d61b" />
+
+

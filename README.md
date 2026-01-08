@@ -1,3 +1,5 @@
+
+
 Apuntes del trabajo.
 
 Adaptativo a plataformas, IOS, APK
@@ -27,3 +29,6 @@ Moderadores y gestión de torneo
 
 SIMULADOR DE MESA (menor prioridad) 
 Table top simulator
+
+
+<img width="1680" height="840" alt="image" src="https://github.com/user-attachments/assets/62eabfb1-08fb-4c7f-abbf-1a8a015d300e" />

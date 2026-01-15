@@ -1,10 +1,13 @@
 Cositas del trabajo :) LINKS
 
--TRELLO DEL TRABAJO: https://trello.com/invite/b/6939b53dc18cbc917cd3884b/ATTI10120286e8a2840fe165fe99535fd2a32BF365A3/entornodesarrollo
+-TRELLO DEL TRABAJO: 
+https://trello.com/invite/b/6939b53dc18cbc917cd3884b/ATTI10120286e8a2840fe165fe99535fd2a32BF365A3/entornodesarrollo
 
--PLANTILLA DE SCRUM EDITABLE: https://docs.google.com/spreadsheets/d/1Js2VGIGqB_z5oqVf3pyk-al8vfSi5KDkzAyD8kz6z0w/edit?usp=sharing
+-PLANTILLA DE SCRUM EDITABLE:
+https://docs.google.com/spreadsheets/d/1Js2VGIGqB_z5oqVf3pyk-al8vfSi5KDkzAyD8kz6z0w/edit?usp=sharing
 
--DOCS EDITABLE: https://docs.google.com/document/d/125PYu5gxWuNmZLYTJHf2mzFNgHgrzz2m/edit?usp=sharing&ouid=116508934077232013679&rtpof=true&sd=true
+-DOCS EDITABLE: 
+https://docs.google.com/document/d/125PYu5gxWuNmZLYTJHf2mzFNgHgrzz2m/edit?usp=sharing&ouid=116508934077232013679&rtpof=true&sd=true
 
 Apuntes del trabajo.
 

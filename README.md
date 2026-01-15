@@ -1,4 +1,5 @@
 Cositas del trabajo :) LINKS
+
 -TRELLO DEL TRABAJO: https://trello.com/invite/b/6939b53dc18cbc917cd3884b/ATTI10120286e8a2840fe165fe99535fd2a32BF365A3/entornodesarrollo
 
 -PLANTILLA DE SCRUM EDITABLE: https://docs.google.com/spreadsheets/d/1Js2VGIGqB_z5oqVf3pyk-al8vfSi5KDkzAyD8kz6z0w/edit?usp=sharing

@@ -13,6 +13,9 @@ https://docs.google.com/spreadsheets/d/1Js2VGIGqB_z5oqVf3pyk-al8vfSi5KDkzAyD8kz6
 -DOCS EDITABLE: 
 https://docs.google.com/document/d/125PYu5gxWuNmZLYTJHf2mzFNgHgrzz2m/edit?usp=sharing&ouid=116508934077232013679&rtpof=true&sd=true
 
+-ARCHIVO CSV:
+https://github.com/erika-0n/Scrum-Entornos-de-Desarrollo/blob/455b1c8eb29f87df82792901d1e14da65033ab59/issues.csv
+
 Apuntes del trabajo.
 
 Adaptativo a plataformas, IOS, APK
